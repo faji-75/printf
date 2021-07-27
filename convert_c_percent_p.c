@@ -1,7 +1,7 @@
 /*
  * File: convert_c_percent_p.c
  * Auth: Faji Sultan
-         Ibrahim Sultan
+ *	Ibrahim Sultan
  */
 
 #include "holberton.h"
